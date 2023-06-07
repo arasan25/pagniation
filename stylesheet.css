@@ -1,0 +1,27 @@
+.pagination{
+    justify-content: center;
+   
+ 
+ }
+
+#title{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+    font-weight: 600;
+}
+ 
+a:hover{
+     background-color: rgb(24, 81, 236);
+     
+    
+}
+
+
+a {
+    padding: 10px;
+    border: 4px solid #979090;
+    margin: 5px;
+  }
